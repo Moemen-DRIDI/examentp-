@@ -1,5 +1,5 @@
-def addition():
- return "Bonjour{nom}!
+def addition(a ,b):
+ return a*b
 
 
 
@@ -7,3 +7,5 @@ def addition():
 def salutation(nom):
  return "Bonjour{nom}!
 
+def multiplication(a, b):
+ return a*b 
